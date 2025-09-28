@@ -55,7 +55,7 @@ Result: 4.09bn
 
 ## Dashboard Preview
 ### Q1 to Q4
-<img src="https://github.com/omkarshinde25/Power-BI-DAX-Agriculture-Analysis/blob/main/Pictures/Screenshot%202025-09-28%20093119.png" width="800"> <br>
+<img src="https://github.com/omkarshinde25/Power-BI-DAX-Agriculture-Analysis/blob/main/Pictures/Screenshot%202025-09-28%20194530.png" width="800"> <br>
 
 ### Q5 to Q8
 <img src="https://github.com/omkarshinde25/Power-BI-DAX-Agriculture-Analysis/blob/main/Pictures/Screenshot%202025-09-28%20093159.png" width="800"> <br>
